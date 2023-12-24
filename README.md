@@ -1,1 +1,1 @@
-www.seducela.com
+seducela.github.io
